@@ -35,7 +35,7 @@ public class TraductorMorse {
         System.out.println("Bienvenido a este traductor Español-Morse o Morse-Español: " + "(Esp-Mor) (Mor-Esp)\n");
 
         System.out.print("MENÚ DE OPCIONES:\n"
-                + "A)  ESPAÑOL-MORSE\n"
+                + "A) ESPAÑOL-MORSE\n"
                 + "B) MORSE-ESPAÑOL\n");
         System.out.print("Elija una opción: ");
         opcion = entrada.nextLine();
